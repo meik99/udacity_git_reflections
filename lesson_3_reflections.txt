@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+    When the project is large and i want to have it saved in a cloud
+    
+    If i want to share it with the community
